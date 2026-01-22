@@ -1,0 +1,8 @@
+{
+  "name": "BTM Textile Market SaaS",
+  "description": "Enterprise-grade B2B/B2C textile marketplace with integrated Gemini AI features: real-time voice assistance, image/video generation, and smart analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
